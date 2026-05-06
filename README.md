@@ -39,13 +39,13 @@ Internal VLAN communication allowed based on policy
 ![Topology](images/topology.png)
 
 ### 🔐 ACL Configuration
-![ACL](images/acl-config.png)
+![ACL](images/acl-configuration.png)
 
 ### ❌ Blocked Traffic (Guest → HR)
 ![Blocked Ping](images/blocked-traffic.png)
 
 ### ✅ Allowed Traffic (IT → HR)
-![Allowed Ping](allowed-traffic.png)
+![Allowed Ping](images/allowed-traffic.png)
 
 
 This lab demonstrates enterprise-style network segmentation and basic firewall enforcement using ACLs. 
